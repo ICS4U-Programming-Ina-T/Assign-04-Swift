@@ -1,0 +1,58 @@
+Triangle 1:
+The side lengths of this triangle are 5.0 ft, 12.0 ft, and 13.0 ft.
+The height is 12.0 ft.
+It has an area of 30.0 ft^2 and a perimeter of 30.0 ft.
+It is scalene with a right angle.
+The angle between sides a and b is 90.0 degrees.
+The angle between sides a and c is 67.38 degrees.
+The angle between sides b and c is 22.62 degrees.
+
+Triangle 2:
+The side lengths of this triangle are 11.0 ft, 3.0 ft, and 9.0 ft.
+The height is 2.01 ft.
+It has an area of 11.05 ft^2 and a perimeter of 23.0 ft.
+It is scalene with a obtuse angle.
+The angle between sides a and b is 42.07 degrees.
+The angle between sides a and c is 12.9 degrees.
+The angle between sides b and c is 125.03 degrees.
+
+Triangle 3:
+The side lengths of this triangle are 8.2 ft, 8.2 ft, and 8.2 ft.
+The height is 7.1 ft.
+It has an area of 29.12 ft^2 and a perimeter of 24.6 ft.
+It is equilateral with a acute angle.
+The angle between sides a and b is 60.0 degrees.
+The angle between sides a and c is 60.0 degrees.
+The angle between sides b and c is 60.0 degrees.
+
+Triangle 4:
+The side lengths of this triangle are 5.0 ft, 14.0 ft, and 10.0 ft.
+The height is 7.04 ft.
+It has an area of 17.61 ft^2 and a perimeter of 29.0 ft.
+It is scalene with a obtuse angle.
+The angle between sides a and b is 30.2 degrees.
+The angle between sides a and c is 135.23 degrees.
+The angle between sides b and c is 14.57 degrees.
+
+Triangle 5:
+The side lengths of this triangle are 14.9 ft, 6.7 ft, and 14.9 ft.
+The height is 6.53 ft.
+It has an area of 48.64 ft^2 and a perimeter of 36.5 ft.
+It is isosceles with a acute angle.
+The angle between sides a and b is 77.0 degrees.
+The angle between sides a and c is 25.99 degrees.
+The angle between sides b and c is 77.01 degrees.
+
+Triangle 6:
+The side lengths of this triangle are 16.0 ft, 16.0 ft, and 12.0 ft.
+The height is 11.12 ft.
+It has an area of 88.99 ft^2 and a perimeter of 44.0 ft.
+It is isosceles with a acute angle.
+The angle between sides a and b is 44.04 degrees.
+The angle between sides a and c is 67.98 degrees.
+The angle between sides b and c is 67.98 degrees.
+
+Triangle 7:
+The side lengths of this triangle are 1.0 ft, 2.0 ft, and 3.0 ft.
+It is not valid.
+
